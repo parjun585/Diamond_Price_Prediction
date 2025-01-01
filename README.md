@@ -35,7 +35,7 @@ The project includes modular pipelines for both training and prediction:
 #### Steps to Run Locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/diamond-price-prediction.git
+   git clone https://github.com/parjun585/Diamond_Price_Prediction.git
    cd diamond-price-prediction
    ```
 2. Install the required dependencies:
